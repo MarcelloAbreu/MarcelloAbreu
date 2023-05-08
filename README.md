@@ -24,7 +24,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="350" height="300" style="border-radius:30px;" src="dev.gif?raw=true" />
+<img align="right" width="320" height="300" style="border-radius:30px;" src="dev.gif?raw=true" />
 <p> -  Futuro Desenvolvedor ou Análista de Sistemas</p>
 <p> -  Cursando Análise e Desenvolvimento de Sistemas - Senac SC</p>
 <p> -  Conhecimento Adquirido e Interesse de Vaga: Java, Python, Spring Boot, API, HTML, CSS, JavaScript, Django, BootStrap, VueJs, MySQL por enquanto... </p>
