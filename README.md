@@ -1,10 +1,8 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="marcello.png" />
+    <img align="center" width="750" src="marcello.png" />
   </a>
 </p>
-</br>
-</br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -22,17 +20,19 @@
   </a>
 </p>
 
-## Olá, eu sou o Marcello Abreu! Seja Bem Vindo no meu Repositório 👋 <img src="dev.gif" width="50px"></h2>
+## Olá, eu sou o Marcello Abreu! Seja Bem Vindo no meu Repositório 👋🏽 </h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
+<img align="right" width="350" height="300" style="border-radius:30px;" src="dev.gif?raw=true" />
 <p> -  Futuro Desenvolvedor ou Análista de Sistemas</p>
 <p> -  Cursando Análise e Desenvolvimento de Sistemas - Senac SC</p>
-<p> -  Meu Interesse,e  que já Aprendi: Java, Python, Spring Boot, API, HTML, CSS, JavaScript, Django, BootStrap, VueJs, MySQL por enquanto... </p>
-<p> -  Como estudante, estou buscando meu primeiro estágio na área da Tecnologia para complementar minha formação acadêmica e ganhar experiência prática no mercado de trabalho. Estou animado para contribuir com minhas habilidades e aprender com profissionais experientes. Agradeço antecipadamente pela consideração e aguardo com expectativa as oportunidades de trabalho.</p>
+<p> -  Conhecimento Adquirido e Interesse de Vaga: Java, Python, Spring Boot, API, HTML, CSS, JavaScript, Django, BootStrap, VueJs, MySQL por enquanto... </p>
+<p> -  Como estudante, estou buscando meu primeiro estágio na área da Tecnologia para complementar minha formação acadêmica e ganhar experiência no mercado de trabalho. </p>
+<p> -  Estou muito animado para contribuir com minhas habilidades e aprender com profissionais experientes. </p>
 </div>
 
-## Minhas Habilidades em Programação
+## Minhas Habilidades em Programação 📝
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
