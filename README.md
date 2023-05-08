@@ -24,8 +24,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="320" height="300" style="border-radius:30px;" src="dev.gif?raw=true" />
-<p> -  Futuro Desenvolvedor ou Análista de Sistemas</p>
+<img align="right" width="250" height="250" src="dev.gif"/>
 <p> -  Cursando Análise e Desenvolvimento de Sistemas - Senac SC</p>
 <p> -  Conhecimento Adquirido e Interesse de Vaga: Java, Python, Spring Boot, API, HTML, CSS, JavaScript, Django, BootStrap, VueJs, MySQL por enquanto... </p>
 <p> -  Como estudante, estou buscando meu primeiro estágio na área da Tecnologia para complementar minha formação acadêmica e ganhar experiência no mercado de trabalho. </p>
