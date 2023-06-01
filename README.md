@@ -63,4 +63,4 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/marcelloabreu/marcelloabreu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarcelloAbreu/MarcelloAbreu/blob/output/github-contribution-grid-snake.svg)
