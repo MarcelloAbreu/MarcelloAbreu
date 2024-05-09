@@ -25,10 +25,10 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" src="dev.gif"/>
-<p> -  Cursando Análise e Desenvolvimento de Sistemas - Senac SC</p>
-<p> -  Conhecimento Adquirido e Interesse de Vaga: Java, Python, Spring Boot, API, HTML, CSS, JavaScript, Django, BootStrap, VueJs, MySQL por enquanto... </p>
-<p> -  Como estudante, estou buscando meu primeiro estágio na área da Tecnologia para complementar minha formação acadêmica e ganhar experiência no mercado de trabalho. </p>
-<p> -  Estou muito animado para contribuir com minhas habilidades e aprender com profissionais experientes. </p>
+<p> -  Formado em Análise e Desenvolvimento de Sistemas - Senac SC 2023</p>
+<p> -  Cursando uma Pós Graduação em Desenvolvimento de Sistemas com Python - Uniasselvi </p>
+<p> -  Conhecimento já Adquirido: Java, Python, Spring Boot, API, HTML, CSS, JavaScript, Django, BootStrap, VueJs, MySQL por enquanto... </p>
+<p> -  Estou entusiasmado em embarcar na minha jornada profissional na área da Tecnologia, ansioso para aplicar meu conhecimento acadêmico e adquirir experiência valiosa no mercado de trabalho. Estou pronto para enfrentar desafios, aprender e contribuir de forma significativa em qualquer oportunidade que surgir!</p>
 </div>
 
 ## Minhas Habilidades em Programação 📝
@@ -57,8 +57,5 @@
     </a>
     <a href="https://www.linkedin.com/in/marcello-abreu/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.twitch.tv/marcelloabreu13" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
     </a>
 </p>
