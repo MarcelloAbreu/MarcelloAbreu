@@ -20,11 +20,11 @@
   </a>
 </p>
 
-## Olá, eu sou o Marcello H. Abreu Nunes! Seja Bem Vindo no meu Repositório 👋🏽 </h2>
+## Olá, eu sou o Marcello Henrique! Seja Bem Vindo no meu Repositório 👋🏽 </h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" src="dev.gif"/>
+<img align="center" width="250" height="250" src="dev.gif"/>
 <p> -  Graduação em Análise e Desenvolvimento de Sistemas - Senac Palhoça - 2023</p>
 <p> -  Pós Graduação em Desenvolvimento de Sistemas com Python - Uniasselvi - 2024 </p>
 <p> -  Cursando Pós Graduação em Gestão em Tecnologia - Uniasselvi </p>
