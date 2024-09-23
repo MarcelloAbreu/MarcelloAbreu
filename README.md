@@ -25,10 +25,12 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" src="dev.gif"/>
-<p> -  Formado em Análise e Desenvolvimento de Sistemas - Senac SC 2023</p>
-<p> -  Cursando uma Pós Graduação em Desenvolvimento de Sistemas com Python - Uniasselvi </p>
-<p> -  Conhecimento já Adquirido: Java, Python, Spring Boot, API, HTML, CSS, JavaScript, Django, BootStrap, VueJs, MySQL por enquanto... </p>
-<p> -  Estou entusiasmado em embarcar na minha jornada profissional na área da Tecnologia, ansioso para aplicar meu conhecimento acadêmico e adquirir experiência valiosa no mercado de trabalho. Estou pronto para enfrentar desafios, aprender e contribuir de forma significativa em qualquer oportunidade que surgir!</p>
+<p> -  Graduação em Análise e Desenvolvimento de Sistemas - Senac Palhoça - 2023</p>
+<p> -  Pós Graduação em Desenvolvimento de Sistemas com Python - Uniasselvi - 2024 </p>
+<p> -  Cursando Pós Graduação em Gestão em Tecnologia - Uniasselvi </p>
+
+<p> -  Conhecimento Acadêmico: Java, Python, SpringBoot, APIs, HTML, CSS, JavaScript, Django, Banco de Dados relacionais e não relacionais</p>
+<p> - Estou altamente motivado para começar minha carreira na área de Tecnologia, ansioso para aplicar meu conhecimento acadêmico e ganhar experiência prática no mercado de trabalho. Estou preparado para enfrentar desafios, aprender continuamente e contribuir de forma significativa em qualquer oportunidade que surgir!</p>
 </div>
 
 ## Minhas Habilidades em Programação 📝
