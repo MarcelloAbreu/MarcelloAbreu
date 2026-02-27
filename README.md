@@ -28,8 +28,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
   <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
   <li><strong>Outros:</strong> Git, GitHub, SQL</li>
 
-<h2> 📝 Minhas Habilidades em Programação </h2>
-<ul>
+<h2 align="center"> 📝 Minhas Habilidades em Programação </h2>
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,7 +44,6 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
 </div>
 
 <h2 align="center"> 📱 Meus Contatos </h2>
-<ul>
 <p align="center">
     <a href="https://github.com/MarcelloAbreu" target="_blank">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -57,7 +55,6 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </p>
-<ul>
 
 ### 📊 Sobre meu GitHub
 <p> Aqui você encontrará projetos acadêmicos e práticos voltados para desenvolvimento de sistemas, APIs, banco de dados e análise de dados.
