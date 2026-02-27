@@ -28,7 +28,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
   <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
   <li><strong>Outros:</strong> Git, GitHub, SQL</li>
 
-## Minhas Habilidades em Programação 📝
+## 📝 Minhas Habilidades em Programação 
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
     <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 </div>
 
-## Meus Contatos :iphone:
+## 📱 Meus Contatos
 
 <p align="center">
     <a href="https://github.com/MarcelloAbreu" target="_blank">
