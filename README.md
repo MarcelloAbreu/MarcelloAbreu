@@ -20,17 +20,13 @@
 <p> 💻 Desenvolvedor em início de carreira, com foco em Backend, Frontend e Análise de Dados.
 Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas, buscando minha primeira oportunidade para aplicar meus conhecimentos acadêmicos em projetos reais e evoluir profissionalmente na área de TI. </p>
 
-<h2> 🚀 Tecnologias e Ferramentas </h2>
-<p> -  Linguagens: Python, Java, JavaScript
-
-- Backend: Spring Boot, Django, APIs REST
-
-- Frontend: HTML, CSS, JavaScript
-
-- Banco de Dados: MySQL, PostgreSQL, MongoDB
-
-- Outros: Git, GitHub, SQL </p>
-</div>
+<h2>🚀 Tecnologias e Ferramentas</h2>
+<ul>
+  <li><strong>Linguagens:</strong> Python, Java, JavaScript</li>
+  <li><strong>Backend:</strong> Spring Boot, Django, APIs REST</li>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
+  <li><strong>Outros:</strong> Git, GitHub, SQL</li>
 
 ## Minhas Habilidades em Programação 📝
 <div align="center">
@@ -65,29 +61,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
 <p> Aqui você encontrará projetos acadêmicos e práticos voltados para desenvolvimento de sistemas, APIs, banco de dados e análise de dados.
 Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem valor real.</p>
 
-<div align="left">
-  <img align="right" width="220" height="220" src="dev.gif" alt="Developer Gif"/>  <ul>
-    <li>🎓 Graduado em Análise e Desenvolvimento de Sistemas – Senac</li>
-    <li>🎓 Pós-graduado em Desenvolvimento de Sistemas com Python – Uniasselvi</li>
-    <li>🎓 Pós-graduado em Gestão em Tecnologia – Uniasselvi</li>
-  </ul>  <p>
-    💻 Desenvolvedor em início de carreira, com foco em Backend, Frontend e Análise de Dados.
-    Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas,
-    buscando minha primeira oportunidade na área de TI para aplicar meus conhecimentos
-    acadêmicos em projetos reais, adquirir experiência prática e evoluir profissionalmente.
-  </p>
-</div><br><h2>📌 Objetivo Profissional</h2>
-<p>
-  Busco minha primeira oportunidade como Desenvolvedor Frontend, Desenvolvedor Backend ou
-  Analista de Dados, onde eu possa contribuir com projetos reais, aprender continuamente e
-  crescer profissionalmente na área de tecnologia.
-</p><h2>🚀 Tecnologias e Ferramentas</h2>
-<ul>
-  <li><strong>Linguagens:</strong> Python, Java, JavaScript</li>
-  <li><strong>Backend:</strong> Spring Boot, Django, APIs REST</li>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
-  <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
-  <li><strong>Outros:</strong> Git, GitHub, SQL</li>
+
 </ul><h2>📝 Minhas Habilidades em Programação</h2>
 <div align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java"/>
