@@ -20,7 +20,7 @@
 <p> 💻 Desenvolvedor em início de carreira, com foco em Backend, Frontend e Análise de Dados.
 Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas, buscando minha primeira oportunidade para aplicar meus conhecimentos acadêmicos em projetos reais e evoluir profissionalmente na área de TI. </p>
 
-<h2>🚀 Tecnologias e Ferramentas</h2>
+🚀 Tecnologias e Ferramentas</h2>
 <ul>
   <li><strong>Linguagens:</strong> Python, Java, JavaScript</li>
   <li><strong>Backend:</strong> Spring Boot, Django, APIs REST</li>
@@ -28,7 +28,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
   <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
   <li><strong>Outros:</strong> Git, GitHub, SQL</li>
 
-## 📝 Minhas Habilidades em Programação 
+<h2> 📝 Minhas Habilidades em Programação </h2>
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
     <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 </div>
 
-## 📱 Meus Contatos
+<h2> 📱 Meus Contatos </h2>
 
 <p align="center">
     <a href="https://github.com/MarcelloAbreu" target="_blank">
