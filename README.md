@@ -10,9 +10,10 @@
 <div style="display: inline_block"  >
 <img align="center" width="250" height="250" src="dev.gif"/>
 
-<p> 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo Senac </p>
-<p> 🎓 Pós-graduado em Desenvolvimento de Sistemas com Python – Uniasselvi </p>
-<p> 🎓 Pós-graduado em Gestão em Tecnologia – Uniasselvi </p>
+   <li>🎓 Graduado em Análise e Desenvolvimento de Sistemas – Senac</li>
+    <li>🎓 Pós-graduado em Desenvolvimento de Sistemas com Python – Uniasselvi</li>
+    <li>🎓 Pós-graduado em Gestão em Tecnologia – Uniasselvi</li>
+  </ul>
 
 <h2> 📌 Objetivo Profissional </h2>
 
