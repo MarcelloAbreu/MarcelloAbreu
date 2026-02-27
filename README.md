@@ -63,3 +63,37 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
 ### 📊 Sobre meu GitHub
 <p> Aqui você encontrará projetos acadêmicos e práticos voltados para desenvolvimento de sistemas, APIs, banco de dados e análise de dados.
 Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem valor real.</p>
+
+p align="center">
+  <img width="750" src="marcello.png" alt="Marcello Banner"/>
+</p><h1 align="center">👋🏽 Olá, eu sou o Marcello Henrique!</h1><h2>👨‍💻 Sobre mim</h2>
+<div align="left">
+  <img align="right" width="220" height="220" src="dev.gif" alt="Developer Gif"/>  <ul>
+    <li>🎓 Graduado em Análise e Desenvolvimento de Sistemas – Senac</li>
+    <li>🎓 Pós-graduado em Desenvolvimento de Sistemas com Python – Uniasselvi</li>
+    <li>🎓 Pós-graduado em Gestão em Tecnologia – Uniasselvi</li>
+  </ul>  <p>
+    💻 Desenvolvedor em início de carreira, com foco em Backend, Frontend e Análise de Dados.
+    Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas,
+    buscando minha primeira oportunidade na área de TI para aplicar meus conhecimentos
+    acadêmicos em projetos reais, adquirir experiência prática e evoluir profissionalmente.
+  </p>
+</div><br><h2>📌 Objetivo Profissional</h2>
+<p>
+  Busco minha primeira oportunidade como Desenvolvedor Frontend, Desenvolvedor Backend ou
+  Analista de Dados, onde eu possa contribuir com projetos reais, aprender continuamente e
+  crescer profissionalmente na área de tecnologia.
+</p><h2>🚀 Tecnologias e Ferramentas</h2>
+<ul>
+  <li><strong>Linguagens:</strong> Python, Java, JavaScript</li>
+  <li><strong>Backend:</strong> Spring Boot, Django, APIs REST</li>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
+  <li><strong>Outros:</strong> Git, GitHub, SQL</li>
+</ul><h2>📝 Minhas Habilidades em Programação</h2>
+<div align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python
