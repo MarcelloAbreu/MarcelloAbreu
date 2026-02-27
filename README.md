@@ -28,21 +28,6 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
   <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
   <li><strong>Outros:</strong> Git, GitHub, SQL</li>
 
-<h2 align="center"> 📝 Minhas Habilidades em Programação </h2>
-<div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-</div>
-
 <h2 align="center"> 📱 Meus Contatos </h2>
 <p align="center">
     <a href="https://github.com/MarcelloAbreu" target="_blank">
