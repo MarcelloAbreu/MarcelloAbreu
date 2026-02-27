@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">👋🏽 Olá, eu sou o Marcello Henrique!</h1>
+<h2 align="center">👋🏽 Olá, eu sou o Marcello Henrique!</h2>
 
 <h2>👨‍💻 Sobre mim</h2>
 <div style="display: inline_block"  >
