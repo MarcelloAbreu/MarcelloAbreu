@@ -4,9 +4,9 @@
   </a>
 </p>
 
-## 👋🏽 Olá, eu sou o Marcello Henrique! </h2>
+<h1 align="center">👋🏽 Olá, eu sou o Marcello Henrique!</h1>
 
-### Sobre mim
+<h2>👨‍💻 Sobre mim</h2>
 <div style="display: inline_block"  >
 <img align="center" width="250" height="250" src="dev.gif"/>
 
@@ -64,9 +64,6 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
 <p> Aqui você encontrará projetos acadêmicos e práticos voltados para desenvolvimento de sistemas, APIs, banco de dados e análise de dados.
 Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem valor real.</p>
 
-p align="center">
-  <img width="750" src="marcello.png" alt="Marcello Banner"/>
-</p><h1 align="center">👋🏽 Olá, eu sou o Marcello Henrique!</h1><h2>👨‍💻 Sobre mim</h2>
 <div align="left">
   <img align="right" width="220" height="220" src="dev.gif" alt="Developer Gif"/>  <ul>
     <li>🎓 Graduado em Análise e Desenvolvimento de Sistemas – Senac</li>
