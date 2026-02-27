@@ -3,12 +3,6 @@
     <img align="center" width="750" src="marcello.png" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      
 
 ## Olá, eu sou o Marcello Henrique! Seja Bem Vindo no meu Repositório 👋🏽 </h2>
 
