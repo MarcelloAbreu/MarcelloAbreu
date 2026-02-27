@@ -19,7 +19,7 @@
 Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas, buscando minha primeira oportunidade para aplicar meus conhecimentos acadêmicos em projetos reais e evoluir profissionalmente na área de TI. </p>
 
 <h2> 🚀 Tecnologias e Ferramentas </h2>
-<p> - Linguagens: Python, Java, JavaScript
+<p>  - Linguagens: Python, Java, JavaScript
 
 - Backend: Spring Boot, Django, APIs REST
 
