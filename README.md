@@ -1,2 +1,65 @@
-Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2026-02-27 17:42:52
-Current User's Login: MarcelloAbreu
+<p align="center">
+  <a href="#">
+    <img align="center" width="750" src="marcello.png" />
+  </a>
+</p>
+
+## 👋🏽 Olá, eu sou o Marcello Henrique! </h2>
+
+### Sobre mim
+<div style="display: inline_block"  >
+<img align="center" width="250" height="250" src="dev.gif"/>
+
+<p> 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo Senac </p>
+<p> 🎓 Pós-graduado em Desenvolvimento de Sistemas com Python – Uniasselvi </p>
+<p> 🎓 Pós-graduado em Gestão em Tecnologia – Uniasselvi </p>
+
+<h2> 📌 Objetivo Profissional </h2>
+
+<p> 💻 Desenvolvedor em início de carreira, com foco em Backend, Frontend e Análise de Dados.
+Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas, buscando minha primeira oportunidade para aplicar meus conhecimentos acadêmicos em projetos reais e evoluir profissionalmente na área de TI. </p>
+
+<h2> 🚀 Tecnologias e Ferramentas </h2>
+<p> -  Linguagens: Python, Java, JavaScript
+
+- Backend: Spring Boot, Django, APIs REST
+
+- Frontend: HTML, CSS, JavaScript
+
+- Banco de Dados: MySQL, PostgreSQL, MongoDB
+
+- Outros: Git, GitHub, SQL </p>
+</div>
+
+## Minhas Habilidades em Programação 📝
+<div align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+</div>
+
+## Meus contatos :iphone:
+
+<p align="center">
+    <a href="https://github.com/MarcelloAbreu" target="_blank">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:marcellohenriquean13@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/marcello-abreu/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+</p>
+
+### 📊 Sobre meu GitHub
+<p> Aqui você encontrará projetos acadêmicos e práticos voltados para desenvolvimento de sistemas, APIs, banco de dados e análise de dados.
+Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem valor real.</p>
