@@ -41,6 +41,6 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
     </a>
 </p>
 
-### 📊 Sobre meu GitHub
+<h2 aligh="left"> 📊 Sobre meu GitHub </h2>
 <p> Aqui você encontrará projetos acadêmicos e práticos voltados para desenvolvimento de sistemas, APIs, banco de dados e análise de dados.
 Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem valor real.</p>
