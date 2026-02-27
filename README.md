@@ -6,7 +6,7 @@
 
 <h2 align="center">👋🏽 Olá, eu sou o Marcello Henrique!</h2>
 
-<h2>👨‍💻 Sobre mim</h2>
+<h2> 🧑🏻‍💻 Sobre mim</h2>
 <div style="display: inline_block"  >
 <img align="center" width="250" height="250" src="dev.gif"/>
 
