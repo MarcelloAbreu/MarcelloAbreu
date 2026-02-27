@@ -28,6 +28,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
   <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
   <li><strong>Outros:</strong> Git, GitHub, SQL</li>
 
+
 <h2 align="left"> 📱 Meus Contatos </h2>
 <p align="Center">
     <a href="https://github.com/MarcelloAbreu" target="_blank">
