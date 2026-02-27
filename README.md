@@ -43,7 +43,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
     <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 </div>
 
-## Meus contatos :iphone:
+## Meus Contatos :iphone:
 
 <p align="center">
     <a href="https://github.com/MarcelloAbreu" target="_blank">
