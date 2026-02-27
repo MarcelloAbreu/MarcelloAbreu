@@ -28,8 +28,8 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
   <li><strong>Banco de Dados:</strong> MySQL, PostgreSQL, MongoDB</li>
   <li><strong>Outros:</strong> Git, GitHub, SQL</li>
 
-<h2 align="center"> 📱 Meus Contatos </h2>
-<p align="center">
+<h2 align="right"> 📱 Meus Contatos </h2>
+<p align="Center">
     <a href="https://github.com/MarcelloAbreu" target="_blank">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a>
