@@ -60,12 +60,3 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de prob
 ### 📊 Sobre meu GitHub
 <p> Aqui você encontrará projetos acadêmicos e práticos voltados para desenvolvimento de sistemas, APIs, banco de dados e análise de dados.
 Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem valor real.</p>
-
-
-</ul><h2>📝 Minhas Habilidades em Programação</h2>
-<div align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python
