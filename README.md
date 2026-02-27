@@ -13,12 +13,14 @@
 <p> 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo Senac </p>
 <p> 🎓 Pós-graduado em Desenvolvimento de Sistemas com Python – Uniasselvi </p>
 <p> 🎓 Pós-graduado em Gestão em Tecnologia – Uniasselvi </p>
+</div>
 
 <p> 💻 Desenvolvedor em início de carreira, com foco em Backend, Frontend e Análise de Dados.
 Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas, buscando minha primeira oportunidade para aplicar meus conhecimentos acadêmicos em projetos reais e evoluir profissionalmente na área de TI. </p>
 
-<h2> - 🚀 Tecnologias e Ferramentas </h2>
-<p> - Linguagens: Python, Java, JavaScript
+<h2> 🚀 Tecnologias e Ferramentas </h2>
+<p> 
+- Linguagens: Python, Java, JavaScript
 
 - Backend: Spring Boot, Django, APIs REST
 
