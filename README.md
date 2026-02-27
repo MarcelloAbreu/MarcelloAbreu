@@ -4,17 +4,29 @@
   </a>
 </p>
 
-## Olá, eu sou o Marcello Henrique! Seja Bem Vindo no meu Repositório 👋🏽 </h2>
+## 👋🏽 Olá, eu sou o Marcello Henrique! </h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="center" width="250" height="250" src="dev.gif"/>
-<p> -  Graduação em Análise e Desenvolvimento de Sistemas - Senac Palhoça - 2023</p>
-<p> -  Pós Graduado em Desenvolvimento de Sistemas com Python - Uniasselvi - 2024 </p>
-<p> -  Pós Graduado em Gestão em Tecnologia - Uniasselvi - 2025 </p>
 
-<p> -  Conhecimento Acadêmico: Java, Python, SpringBoot, APIs, HTML, CSS, JavaScript, Django, Banco de Dados relacionais e não relacionais</p>
-<p> - Estou altamente motivado para começar minha carreira na área de Tecnologia, ansioso para aplicar meu conhecimento acadêmico e ganhar experiência prática no mercado de trabalho. Estou preparado para enfrentar desafios, aprender continuamente e contribuir de forma significativa em qualquer oportunidade que surgir!</p>
+<p> 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo Senac </p>
+<p> 🎓 Pós-graduado em Desenvolvimento de Sistemas com Python – Uniasselvi </p>
+<p> 🎓 Pós-graduado em Gestão em Tecnologia – Uniasselvi </p>
+
+<p> 💻 Desenvolvedor em início de carreira, com foco em Backend, Frontend e Análise de Dados.
+Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas, buscando minha primeira oportunidade para aplicar meus conhecimentos acadêmicos em projetos reais e evoluir profissionalmente na área de TI. </p>
+
+<h2> - 🚀 Tecnologias e Ferramentas </h2>
+<p> - Linguagens: Python, Java, JavaScript
+
+- Backend: Spring Boot, Django, APIs REST
+
+- Frontend: HTML, CSS, JavaScript
+
+- Banco de Dados: MySQL, PostgreSQL, MongoDB
+
+- Outros: Git, GitHub, SQL </p>
 </div>
 
 ## Minhas Habilidades em Programação 📝
